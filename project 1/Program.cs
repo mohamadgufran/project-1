@@ -8,7 +8,7 @@ class Program
         string address = "Sydney, Australia";
 
         Console.WriteLine("My Details");
-        Console.WriteLine("-----------");
+       
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Address: " + address);
 
