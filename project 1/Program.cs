@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string name = " mohamad Gufran ";
-        string address = "sydney, Australia";
+        string name = " zyan Gufran ";
+        string address = "perth, Australia";
 
         Console.WriteLine("My Details");
        
